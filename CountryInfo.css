@@ -1,0 +1,29 @@
+body {
+      font-family: Arial, sans-serif;
+      background:#050f30;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+      background: whitesmoke;
+      padding: 15px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    input, button {
+      padding: 8px;
+      margin: 5px 0;
+    }
+    .result img {
+      width: 80px;
+      margin: 10px 0;
+      text-align: center;
+    }
+    .result {
+      text-align: center;
+      margin-top: 10px;
+      font-size: 14px;
+    }
